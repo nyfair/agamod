@@ -1,3 +1,4 @@
+# DMM Version Only
 # How to use
 Download the archive from https://github.com/nyfair/AGA-Panty/releases  
 Extract the archive into game's installation folder  
